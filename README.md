@@ -1,2 +1,3 @@
-# freemius-reviews
-Shows plugins/theme reviews from Freemius
+# Freemius Reviews
+
+Shows Pootle Pagebuilder reviews from Freemius.
